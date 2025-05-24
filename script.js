@@ -41,8 +41,5 @@ async function deleteTask(id) {
   loadTasks();
 }
 
-async function toggleTask(id) {
-  // We'll add this logic after backend is ready
-}
 
 loadTasks();
